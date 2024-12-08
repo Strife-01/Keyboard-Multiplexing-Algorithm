@@ -1,7 +1,7 @@
 # Keyboard Multiplexing Algorithm
 
 ![C Programming Language](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png)
-![Microchip Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Microchip_logo.svg/1280px-Microchip_logo.svg.png)
+![Microchip Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg)
 
 This project implements a **Keyboard Multiplexing Algorithm** written in **C**, using the **PIC18F47Q10** microcontroller. The design focuses on efficiently detecting key presses using a multiplexed matrix keypad. The algorithm is flexible and can be adapted for any **AxB matrix size**, enabling support for different keypad configurations.
 
